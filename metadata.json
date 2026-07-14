@@ -1,0 +1,6 @@
+{
+  "name": "Dragon Tiger Casino",
+  "description": "An immersive, stately Roman Colosseum themed Dragon Tiger casino game featuring real-time 3D procedural models of Draco & Tigris, simulated live players placing dynamic bets, bead-plate roadmaps, and Web Audio synthesized roars.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
